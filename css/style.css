@@ -35,7 +35,7 @@ img {
 }
 
 main {
-    background-image: url(/image/back-img.png);
+    background-image: url(image/back-img.png);
     width: 100%;
     height: auto;
 }
